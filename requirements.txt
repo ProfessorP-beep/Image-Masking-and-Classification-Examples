@@ -1,2 +1,6 @@
 numpy==1.26.4
 keras==3.0.5
+matplotlib==3.8.3
+tensorflow
+pandas==2.2.1
+kaggle
