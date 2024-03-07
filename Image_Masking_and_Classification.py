@@ -1,4 +1,7 @@
-# Example Taken from https://keras.io/examples/vision/masked_image_modeling/
+# Example adapted from https://keras.io/examples/vision/masked_image_modeling/
+# Written with help from ChatGPT and Gemini
+# Data are a subset of 4999 NIH chest X-ray images https://www.kaggle.com/datasets/nih-chest-xrays/data/data
+# image folder 
 import os
 os.environ["KERAS_BACKEND"] = "tensorflow"
 import tensorflow as tf
