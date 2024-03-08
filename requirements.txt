@@ -7,3 +7,4 @@ deeplake
 pillow
 scikit-learn
 opencv-python
+kaggle
