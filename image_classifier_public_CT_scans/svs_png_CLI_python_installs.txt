@@ -1,0 +1,12 @@
+# command line installations for the svs to png converter script
+pip install opencv-python
+pip install imread
+pip install tifffile
+pip install imagecodecs
+pip install matplotlib
+pip install lxml
+pip install zarr
+pip install fsspec
+
+#This installs openslide and openslide-python and all the dependencies.
+conda install openslide-python
